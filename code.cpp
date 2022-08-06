@@ -6,6 +6,7 @@ int main(){
     while(t--){
         int n;
         cin>>n;
+        cout<<"This is the number = "<<n;
         
     }
 }
